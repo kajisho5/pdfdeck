@@ -1,2 +1,15 @@
-# pdfdeck
-Merge, split, reorder, and compress PDFs on Mac.
+# pdfdeck（仮名）
+
+**PDF結合・分割・圧縮**
+
+## 課題（Mac標準の不便）
+プレビューでの結合は分かりづらく失敗しやすく、圧縮は画質が荒い。
+
+## 計画している機能
+- ドラッグで結合・分割・並べ替え
+- 用途別圧縮プリセット（画質選択可）
+- ページ削除・回転
+
+## ステータス
+仮名・構想段階。2026-10-26に「Mac標準の足りないところ」候補としてリポジトリを作成。
+出典リスト: ~/workspace/apps/macos-builtin-pain-points.md
